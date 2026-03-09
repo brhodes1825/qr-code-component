@@ -15,6 +15,11 @@ main {
   width: 80em;
 }
 
+.card-img-container {
+  height: 50em;
+  width: 80em;
+}
+
 img {
   margin: auto auto;
   border-radius: 15px;
