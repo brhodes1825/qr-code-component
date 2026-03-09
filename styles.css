@@ -13,5 +13,6 @@ main {
 img {
   margin: auto auto;
   border-radius: 15px;
-
+  height: 66em;
+  width: 80em;
 }
