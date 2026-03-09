@@ -11,18 +11,18 @@ main {
 }
 
 .card-container {
-  height: 50em;
-  width: 80em;
+  height: 50rem;
+  width: 80rem;
 }
 
 .card-img-container {
-  height: 50em;
-  width: 80em;
+  height: 50rem;
+  width: 80rem;
 }
 
 img {
   margin: auto auto;
   border-radius: 15px;
-  height: 10em;
-  width: 10em;
+  height: 10rem;
+  width: 10rem;
 }
