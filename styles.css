@@ -1,6 +1,5 @@
 body {
   background-color: hsl(212, 45%, 89%)
-  margin: auto auto;
 }
 
 main {
@@ -8,6 +7,12 @@ main {
   height: 66%;
   background-color: hsl(0, 0%, 100%);
   border-radius: 15px;
+  margin: auto auto;
+}
+
+.card-container {
+  height: 50em;
+  width: 80em;
 }
 
 img {
