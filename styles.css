@@ -4,20 +4,14 @@ body {
   margin: auto auto;
 }
 
-main {
-  width: 375px;
+.card-container {
+  width: 60rem;
   height: 30rem;
   background-color: hsl(0, 0%, 100%);
   border-radius: 15px;
   margin: auto auto;
   padding: 10px;
   box-shadow: 0 0 5px 0 blur;
-}
-
-.card-container {
-  margin: auto auto;
-  height: 30rem;
-  width: 80rem;
 }
 
 .card-img-container {
