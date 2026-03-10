@@ -1,6 +1,7 @@
 body {
   background-color: hsl(212, 45%, 89%);
   width: 100vw;
+  margin: auto auto;
 }
 
 main {
@@ -19,8 +20,9 @@ main {
 }
 
 .card-img-container {
-  height: 30rem;
-  width: 80rem;
+  height: 17rem;
+  width: 17rem;
+  margin: auto auto;
 }
 
 img {
