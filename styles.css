@@ -18,16 +18,9 @@ body {
   height: 28rem;
   background-color: hsl(0, 0%, 100%);
   border-radius: 20px;
-  margin: auto auto;
+  margin: 0 auto;
   padding: 10px;
   display: block;
-}
-
-.card-img-container {
-  height: 17rem;
-  width: 17rem;
-  margin: auto auto;
-  padding: 5px;
 }
 
 img {
