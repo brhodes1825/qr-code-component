@@ -1,6 +1,7 @@
 body {
   background-color: hsl(212, 45%, 89%);
   width: 100vw;
+  height: 98vh;
   margin: auto auto;
   display: flex;
   align-items: center;
