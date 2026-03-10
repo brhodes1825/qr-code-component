@@ -30,6 +30,10 @@ img {
   border-radius: 17px;
 }
 
+p {
+  font-family: "Outfit";
+}
+
 .writeup-section {
   margin: auto auto;
   padding: 10px;
@@ -37,14 +41,12 @@ img {
 }
 
 .bold-larger-text {
-  font-family: "Outfit";
   font-weight: 700;
   font-size: 22px;  
   color: hsl(218, 44%, 22%);
 }
 
 .normal-smaller-text {
-  font-family: "Outfit";
   font-weight: 400;
   font-size: 16px;
   color: hsl(216, 15%, 48%);
