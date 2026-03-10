@@ -16,7 +16,7 @@ body {
   width: 17rem;
   height: 28rem;
   background-color: hsl(0, 0%, 100%);
-  border-radius: 15px;
+  border-radius: 20px;
   margin: auto auto;
   padding: 10px;
   box-shadow: 5px gray blur;
@@ -32,7 +32,7 @@ body {
 img {
   margin: auto auto;
   padding: 10px;
-  border-radius: 15px;
+  border-radius: 20px;
   height: 17rem;
   width: 17rem;
 }
