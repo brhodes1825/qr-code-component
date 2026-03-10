@@ -21,6 +21,7 @@ body {
   margin: 0 auto;
   padding: 10px;
   display: block;
+  text-align: center;
 }
 
 img {
@@ -32,12 +33,6 @@ img {
 
 p {
   font-family: "Outfit";
-}
-
-.writeup-section {
-  margin: auto auto;
-  padding: 10px;
-  text-align: center;
 }
 
 .bold-larger-text {
