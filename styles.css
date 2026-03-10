@@ -1,5 +1,6 @@
 body {
   background-color: hsl(212, 45%, 89%);
+  width: 100vw;
 }
 
 main {
@@ -11,6 +12,7 @@ main {
 }
 
 .card-container {
+  margin: auto auto;
   height: 30rem;
   width: 80rem;
 }
