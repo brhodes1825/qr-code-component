@@ -1,3 +1,8 @@
+@font-face {
+  font-family: "Outfit";
+  src: "https://fonts.google.com/specimen/Outfit";  
+}
+
 body {
   background-color: hsl(212, 45%, 89%);
   width: 100vw;
@@ -6,11 +11,6 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-}
-
-@font-face {
-  font-family: "Outfit";
-  src: "https://fonts.google.com/specimen/Outfit";  
 }
 
 .card-container {
@@ -27,15 +27,14 @@ body {
   height: 17rem;
   width: 17rem;
   margin: auto auto;
-  padding: 10px;
+  padding: 5px;
 }
 
 img {
-  margin: auto auto;
-  padding: 10px;
-  border-radius: 20px;
   height: 17rem;
   width: 17rem;
+  margin: auto auto;
+  border-radius: 20px;
 }
 
 .writeup-section {
