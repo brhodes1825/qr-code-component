@@ -20,7 +20,7 @@ body {
   border-radius: 20px;
   margin: auto auto;
   padding: 10px;
-  box-shadow: 5px gray blur;
+  box-shadow: 0 5px black blur;
 }
 
 .card-img-container {
