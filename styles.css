@@ -2,6 +2,9 @@ body {
   background-color: hsl(212, 45%, 89%);
   width: 100vw;
   margin: auto auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 @font-face {
@@ -10,8 +13,8 @@ body {
 }
 
 .card-container {
-  width: 20rem;
-  height: 30rem;
+  width: 17rem;
+  height: 28rem;
   background-color: hsl(0, 0%, 100%);
   border-radius: 15px;
   margin: auto auto;
