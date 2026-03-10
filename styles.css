@@ -11,7 +11,10 @@ body {
   border-radius: 15px;
   margin: auto auto;
   padding: 10px;
-  box-shadow: 0 0 5px 0 blur;
+  box-shadow: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .card-img-container {
