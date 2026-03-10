@@ -14,7 +14,7 @@ body {
 }
 
 .card-container {
-  width: 17rem;
+  width: 18rem;
   height: 27rem;
   background-color: hsl(0, 0%, 100%);
   border-radius: 17px;
@@ -29,6 +29,12 @@ img {
   width: 17rem;
   margin: auto auto;
   border-radius: 17px;
+}
+
+.writeup-section {
+  margin: auto auto;
+  padding: 10px;
+  text-align: center;
 }
 
 p {
