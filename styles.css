@@ -11,9 +11,7 @@ body {
   border-radius: 15px;
   margin: auto auto;
   padding: 10px;
-  box-shadow: 5px;
-  display: flex;
-  align-items: center;
+  box-shadow: 5px gray blur;
 }
 
 .card-img-container {
