@@ -4,7 +4,7 @@ body {
 
 main {
   width: 375px;
-  height: 40rem;
+  height: 30rem;
   background-color: hsl(0, 0%, 100%);
   border-radius: 15px;
   margin: auto auto;
@@ -23,6 +23,6 @@ main {
 img {
   margin: auto auto;
   border-radius: 15px;
-  height: 15rem;
-  width: 15rem;
+  height: 17rem;
+  width: 17rem;
 }
