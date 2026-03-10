@@ -18,11 +18,31 @@ body {
   height: 17rem;
   width: 17rem;
   margin: auto auto;
+  padding: 10px;
 }
 
 img {
   margin: auto auto;
+  padding: 10px;
   border-radius: 15px;
   height: 17rem;
   width: 17rem;
+}
+
+.writeup-section {
+  font-family: Outfit;
+  margin: auto auto;
+  padding: 10px;
+}
+
+.bold-larger-text {
+  font-weight: 600;
+  font-size: 16px;  
+  color: hsl(218, 44%, 22%);
+}
+
+.normal-smaller-text {
+  font-weight: 400;
+  font-size: 12px;
+  color: hsl(212, 45%, 89%);
 }
